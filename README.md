@@ -9,10 +9,10 @@
   <img align="center" alt="Bmarques-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
   <img align="center" alt="Bmarques-OpenGL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg">
   <img align="center" alt="Bmarques-Cmake" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg">
+  <img align="center" alt="Bmarques-DirectX" height="40" width="40" src="https://github.com/bmarques1995/bmarques1995/blob/dist/cdnlogo.com_microsoft-directx.svg">
   <img align="center" alt="Bmarques-Ubuntu" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Bmarques-Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Bmarques-Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
-  <!-- DirectX Logo -->
 </div>
   
   ##
