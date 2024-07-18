@@ -1,5 +1,8 @@
 ## Fala seus panacas, aqui é o Bruno S Marques, futuro criador de conteúdo de programação de jogos!
 
+[![Ohjurots GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohjurot&hide=contribs&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjurot&theme=calm&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Bmarques-Cpp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Bmarques-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
