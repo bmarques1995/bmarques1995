@@ -1,7 +1,7 @@
 ## Fala seus panacas, aqui é o Bruno S Marques, futuro criador de conteúdo de programação de jogos!
 
-[![bmarques1995 GitHub stats](https://github-readme-stats.vercel.app/api?username=bmarques1995&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmarques1995&theme=calm&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![bmarques1995 GitHub stats](https://github-readme-stats.vercel.app/api?username=bmarques1995&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmarques1995&theme=tokyonight&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bmarques-Cpp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
