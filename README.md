@@ -12,7 +12,7 @@
   <img align="center" alt="Bmarques-Vulkan" height="175.24" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/dist/vulkan.svg">
   <img align="center" alt="Bmarques-Direct3D12" height="50" width="81.64" src="https://github.com/bmarques1995/bmarques1995/blob/dist/d3d12.svg">
   <img align="center" alt="Bmarques-Ubuntu" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Bmarques-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Bmarques-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
   <img align="center" alt="Bmarques-Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
 </div>
   
