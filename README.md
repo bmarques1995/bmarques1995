@@ -28,7 +28,7 @@
 </div>
 <h2>IDEs e Compiladores</h2>
 <div style="display: inline_block">
-  <img align="center" alt="Bmarques-VS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg">
+  <img align="center" alt="Bmarques-VS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg">
   <img align="center" alt="Bmarques-VSCode" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Bmarques-GCC" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg">
 </div>
