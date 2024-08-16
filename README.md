@@ -3,19 +3,34 @@
 [![bmarques1995 GitHub stats](https://github-readme-stats.vercel.app/api?username=bmarques1995&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmarques1995&theme=tokyonight&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline_block"><br>
+<h2>Linguagens de Programação</h2>
+<div style="display: inline_block">
   <img align="center" alt="Bmarques-Cpp" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Bmarques-C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+  <img align="center" alt="Bmarques-C#" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Bmarques-Node" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Bmarques-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+</div>
+<h2>Utilitários e SOs</h2>
+<div style="display: inline_block">
   <img align="center" alt="Bmarques-Cmake" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg">
-  <img align="center" alt="Bmarques-OpenGL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg">
-  <img align="center" alt="Bmarques-DirectX" height="50" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/dist/cdnlogo.com_microsoft-directx.svg">
-  <img align="center" alt="Bmarques-Vulkan" height="175.24" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/dist/vulkan.svg">
-  <img align="center" alt="Bmarques-Direct3D12" height="50" width="81.64" src="https://github.com/bmarques1995/bmarques1995/blob/dist/d3d12.svg">
   <img align="center" alt="Bmarques-Ubuntu" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Bmarques-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
   <img align="center" alt="Bmarques-Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
 </div>
-  
+<h2>APIs Gráficas</h2>
+<div style="display: inline_block">
+  <img align="center" alt="Bmarques-OpenGL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg">
+  <img align="center" alt="Bmarques-DirectX" height="50" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/dist/cdnlogo.com_microsoft-directx.svg">
+  <img align="center" alt="Bmarques-Vulkan" height="175.24" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/dist/vulkan.svg">
+  <img align="center" alt="Bmarques-Direct3D12" height="50" width="81.64" src="https://github.com/bmarques1995/bmarques1995/blob/dist/d3d12.svg">
+</div>
+<h2>Bancos de Dados</h2>
+<div style="display: inline_block">
+  <img align="center" alt="Bmarques-Mysql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Bmarques-Mongodb" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Bmarques-Redis" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
+</div> 
   ##
  
 <div> 
