@@ -22,7 +22,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Bmarques-OpenGL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg">
   <img align="center" alt="Bmarques-DirectX" height="50" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/dist/cdnlogo.com_microsoft-directx.svg">
-  <img align="center" alt="Bmarques-Vulkan" height="175.24" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/dist/vulkan.svg">
+  <img align="center" alt="Bmarques-Vulkan" height="50" width="175.24" src="https://github.com/bmarques1995/bmarques1995/blob/dist/vulkan.svg">
   <img align="center" alt="Bmarques-Direct3D12" height="50" width="81.64" src="https://github.com/bmarques1995/bmarques1995/blob/dist/d3d12.svg">
 </div>
 <h2>Bancos de Dados</h2>
@@ -30,8 +30,7 @@
   <img align="center" alt="Bmarques-Mysql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Bmarques-Mongodb" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Bmarques-Redis" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
-</div> 
-  ##
+</div>
  
 <div> 
   <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
