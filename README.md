@@ -5,8 +5,8 @@
 
 <h2>Linguagens de Programação</h2>
 <div style="display: inline_block">
+  <img align="center" alt="Bmarques-C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Bmarques-Cpp" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Bmarques-C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
   <img align="center" alt="Bmarques-C#" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Bmarques-Node" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Bmarques-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -25,6 +25,7 @@
   <img align="center" alt="Bmarques-Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="Bmarques-Cmake" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg">
   <img align="center" alt="Bmarques-Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Bmarques-Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg">
 </div>
 <h2>IDEs e Compiladores</h2>
 <div style="display: inline_block">
