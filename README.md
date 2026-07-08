@@ -1,7 +1,6 @@
 ## Fala pessoal, aqui é o Bruno S Marques, futuro criador de conteúdo de programação de jogos!
 
-[![bmarques1995 GitHub stats](https://github-readme-stats.vercel.app/api?username=bmarques1995&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmarques1995&theme=tokyonight&langs_count=9&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bmarques1995)](https://github.com/stats-organization/github-stats-extended)
 
 <h2>Linguagens de Programação</h2>
 <div style="display: inline_block">
@@ -18,6 +17,11 @@
   <img align="center" alt="Bmarques-Vulkan" height="50" width="175.24" src="https://github.com/bmarques1995/bmarques1995/blob/dist/vulkan.svg">
   <img align="center" alt="Bmarques-Direct3D12" height="50" width="81.64" src="https://github.com/bmarques1995/bmarques1995/blob/dist/d3d12.svg">
 </div>
+<h2>Utilitários de Janela</h2>
+<div>
+  <img align="center" alt="Bmarques-Qt" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg">
+  <img align="center" alt="Bmarques-Qt" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg">
+</div>
 <h2>Utilitários e SOs</h2>
 <div style="display: inline_block">
   <img align="center" alt="Bmarques-Ubuntu" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
@@ -25,7 +29,6 @@
   <img align="center" alt="Bmarques-Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="Bmarques-Cmake" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg">
   <img align="center" alt="Bmarques-Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Bmarques-Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg">
 </div>
 <h2>IDEs e Compiladores</h2>
 <div style="display: inline_block">
