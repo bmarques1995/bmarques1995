@@ -13,9 +13,9 @@
 <h2>APIs Gráficas</h2>
 <div style="display: inline_block">
   <img align="center" alt="Bmarques-OpenGL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg">
-  <img align="center" alt="Bmarques-DirectX" height="50" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/dist/cdnlogo.com_microsoft-directx.svg">
-  <img align="center" alt="Bmarques-Vulkan" height="50" width="175.24" src="https://github.com/bmarques1995/bmarques1995/blob/dist/vulkan.svg">
-  <img align="center" alt="Bmarques-Direct3D12" height="50" width="81.64" src="https://github.com/bmarques1995/bmarques1995/blob/dist/d3d12.svg">
+  <img align="center" alt="Bmarques-DirectX" height="50" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/master/cdnlogo.com_microsoft-directx.svg">
+  <img align="center" alt="Bmarques-Vulkan" height="50" width="175.24" src="https://github.com/bmarques1995/bmarques1995/blob/master/vulkan.svg">
+  <img align="center" alt="Bmarques-Direct3D12" height="50" width="81.64" src="https://github.com/bmarques1995/bmarques1995/blob/master/d3d12.svg">
 </div>
 <h2>Utilitários de Janela</h2>
 <div>
@@ -24,7 +24,7 @@
 </div>
 <h2>Utilitários e SOs</h2>
 <div style="display: inline_block">
-  <img align="center" alt="Bmarques-Ubuntu" height="50" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/dist/freebsd-icon.svg">
+  <img align="center" alt="Bmarques-Ubuntu" height="50" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/master/freebsd-icon.svg">
   <img align="center" alt="Bmarques-Ubuntu" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
   <img align="center" alt="Bmarques-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
   <img align="center" alt="Bmarques-Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
