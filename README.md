@@ -24,6 +24,7 @@
 </div>
 <h2>Utilitários e SOs</h2>
 <div style="display: inline_block">
+  <img align="center" alt="Bmarques-Ubuntu" height="50" width="50" src="https://github.com/bmarques1995/bmarques1995/blob/dist/freebsd-icon.svg">
   <img align="center" alt="Bmarques-Ubuntu" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
   <img align="center" alt="Bmarques-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
   <img align="center" alt="Bmarques-Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
